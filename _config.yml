@@ -1,0 +1,17 @@
+# Site settings
+title: Eivind Bergstøl
+email: eivind@bergstol.no
+adress: Armauer Hansens gate 19
+zip: "0455"
+city: Oslo
+description: > #
+  This blog is mostly for personal use.
+  I will try and use this weblog as just that,
+  a log of things i do every day so that I can remember.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://eivind.bergstol.no"
+twitter_username: eivinhb
+github_username:  eivinhb
+
+# Build settings
+markdown: kramdown
