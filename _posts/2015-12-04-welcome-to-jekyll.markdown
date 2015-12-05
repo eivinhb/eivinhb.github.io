@@ -19,18 +19,18 @@ Using Rake at this point to build this blog and push to Github i a step too far.
 simple site. Using Jekyll has kind of allready complicated this project as far as I will go for now.
 
 {:refdef: class="round"}
-![Eivind gravatar](http://www.gravatar.com/avatar/ae543005bfa33e5b2436dbab7fe460fb?45?s=25)
+![Eivind gravatar](http://www.gravatar.com/avatar/ae543005bfa33e5b2436dbab7fe460fb?s=85)
 {: refdef}
 
 So I hashed (MD5) my email adress into `ae543005bfa33e5b2436dbab7fe460fb` and my 
-image is available on `http://www.gravatar.com/avatar/ae543005bfa33e5b2436dbab7fe460fb`
+image is available on `http://www.gravatar.com/avatar/HASH`
 
 And by the way, I made the img round by using kramdown compile functionality for markdown:
 
 
 {% highlight ruby %}
 {:refdef: class="round"}
-![Eivind gravatar](http://www.gravatar.com/avatar/ae543005bfa33e5b2436dbab7fe460fb?45?s=25)
+![Eivind gravatar](http://www.gravatar.com/avatar/ae543005bfa33e5b2436dbab7fe460fb?s=85)
 {: refdef}
 {% endhighlight %}
 
