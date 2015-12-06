@@ -13,7 +13,7 @@ add Gravatar to the [About](/about)-page.
 Sometimes I like to be lazy. That's why I love OSS and that fact that people share code. I checked out [Gravatars
 API documentation][gravatar-doc]. And thats is OK. I now know how to do it. 
 But the next hit on Google was [this blog post][blog]. It's a "how to" for a Jekyll plugin 
-for Gravatar. However this does not work on github-pages because it is run i -safe mode.
+for Gravatar. However this does not work on github-pages because it is run in -safe mode.
 
 Using Rake at this point to build this blog and push to Github i a step too far. This was ment to be a 
 simple site. Using Jekyll has kind of allready complicated this project as far as I will go for now.
